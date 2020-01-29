@@ -78,8 +78,6 @@ public class FaceContours {
 
                                             left_eyebrow_top = face.getContour(FirebaseVisionFaceContour.FACE).getPoints();
 
-
-
                                             right_eyebrow_top = face.getContour(FirebaseVisionFaceContour.RIGHT_EYEBROW_TOP).getPoints();
                                             left_eyebrow_bottom = face.getContour(FirebaseVisionFaceContour.LEFT_EYEBROW_BOTTOM).getPoints();
                                             right_eyebrow_bottom = face.getContour(FirebaseVisionFaceContour.RIGHT_EYEBROW_BOTTOM).getPoints();
