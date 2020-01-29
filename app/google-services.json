@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "884933122163",
+    "firebase_url": "https://portraithelper.firebaseio.com",
+    "project_id": "portraithelper",
+    "storage_bucket": "portraithelper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884933122163:android:a2392bab1513de00863206",
+        "android_client_info": {
+          "package_name": "com.portraithelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884933122163-ueca4qtsp6avn4ksmpam9rc2pbjon1us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjur7Z3J1MZb2SW7FsKIxAzbLqUsrvxNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884933122163-ueca4qtsp6avn4ksmpam9rc2pbjon1us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

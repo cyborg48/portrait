@@ -1,0 +1,2 @@
+include ':app', ':PhotoDemo'
+rootProject.name='PortraitHelper'
